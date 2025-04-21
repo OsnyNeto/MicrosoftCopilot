@@ -1,10 +1,5 @@
-# Microsoft Copilot
+# Microsoft Copilot Studio
 Um Resuma de como criar um ambiente e agentes no Microsoft Copilot
-
-
-# Criando agentes com o Microsoft Copilot Studio
-
-Este é um breve resumo como criar um agente com o Copilot Studio.
 
 ## Fazendo o login
 
